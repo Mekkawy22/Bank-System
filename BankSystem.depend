@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1689964282 source:d:\route\banksystem\main.cpp
+	<iostream>
+	<string>
+	"Admin.h"
+	"Client.h"
+
+1689965645 d:\route\banksystem\client.h
+	<iostream>
+	"Person.h"
+
+1689963947 d:\route\banksystem\admin.h
+	"Employee.h"
+	<vector>
+
+1689964295 d:\route\banksystem\employee.h
+	"Person.h"
+	"Client.h"
+	<vector>
+	<string>
+
+1688586568 d:\route\banksystem\person.h
+
